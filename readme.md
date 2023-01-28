@@ -11,3 +11,6 @@ Enter the desired information and customize the size and color options
 Click on generate button
 Download the QR code as an image file or share it directly
 Don't settle for boring and outdated QR code generators. Upgrade to QR-tastic and experience the future of QR code generation today!"
+
+Check out the blog:
+https://medium.com/@codekingdom/easily-create-a-qr-code-generator-in-just-6-simple-steps-with-html-css-and-javascript-cdc15e31431a
